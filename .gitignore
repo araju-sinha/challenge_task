@@ -10,3 +10,5 @@
 crash.log
 
 .terraform.lock.hcl
+
+credentials.json
