@@ -1,0 +1,10 @@
+var_project = "flash-span-372817"
+region  = "us-central1"
+name            = "terraform-instance"
+machine_type        = "e2-small"
+zone                = "us-central1-a"
+image               = "ubuntu-2004-focal-v20220419"
+type                = "pd-ssd"
+size                = 10
+network             = "default"
+subnet_cidr         = "10.0.1.0/24"

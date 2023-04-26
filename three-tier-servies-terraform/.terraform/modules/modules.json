@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"compute_instance","Source":"./Modules/Compute Instance","Dir":"Modules/Compute Instance"},{"Key":"vpc","Source":"./Modules/VPC","Dir":"Modules/VPC"}]}
